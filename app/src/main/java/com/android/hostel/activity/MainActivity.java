@@ -1,7 +1,9 @@
-package com.android.hostel;
+package com.android.hostel.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.android.hostel.R;
 
 public class MainActivity extends AppCompatActivity {
 
